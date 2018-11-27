@@ -1,0 +1,13 @@
+{
+  "name": "Quotes",
+  "version": "1.0.0",
+  "description": "Quotes",
+  "main": "bot.js",
+  "scripts": {
+	"start": "node bot.js"
+	},
+  "author": "tmacleod",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
